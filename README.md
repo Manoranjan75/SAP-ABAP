@@ -153,7 +153,7 @@ Build and expose RESTful APIs with OData for integration and UI5.
 
 ## 📧 Contact
 
-Created by [**Manoranjan Kumar**](www.linkedin.com/in/manoranjan75)  
+Created by [**Manoranjan Kumar**](https://www.linkedin.com/in/manoranjan-kumar-57b1a723b/)  
 
 ## ⭐️ Don't forget to Star the Repo if you found it helpful!
 
