@@ -1,9 +1,10 @@
 # SAP-ABAP
+![SAP ABAP Logo](https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg)
 
 # 🚀 ABAP Training Modules Repository
 
 [![ABAP](https://img.shields.io/badge/SAP-ABAP-blue.svg)](https://www.sap.com)  
-📚 *Your one-stop GitHub resource for mastering SAP ABAP programming through structured modules.*
+📚  *Your one-stop GitHub resource for mastering SAP ABAP programming — featuring a structured, hands-on learning path that covers everything from core concepts to advanced topics like OOPs, Workflows, and BAPIs. Ideal for students, professionals, and ABAP developers aiming to build real-world skills and prepare for project work or certification.*
 
 ---
 
