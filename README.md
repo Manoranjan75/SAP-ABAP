@@ -50,7 +50,7 @@ Welcome! This repository is designed to serve as a complete reference for **SAP 
 
 ## 📘 ABAP Syllabus Overview
 
-For the syllabus click here 📁 [Go to Module](./ABAP_Dictionary)
+For the syllabus click here 📁 [Go to Module](./ABAP_syllabus.pdf)
 
 
 
